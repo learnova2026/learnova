@@ -1,0 +1,1 @@
+ Learnova final prototype. Teacher password: RVM2026. Run npm install then npm start. For all devices to see published videos, deploy server online and connect APK to its HTTPS URL. Do not put real secrets in client code for production; use server-side authentication.
